@@ -6,7 +6,7 @@ from time import sleep
 
 board = Arduino('COM3')
 # Arduino define pins
-digitalPins =[4,5,11,7]  
+digitalPins =[4,5,7,11]  
 
 for pins in digitalPins:
     board.digital[pins].write(0)
