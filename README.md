@@ -7,11 +7,12 @@ A contactless Human-Machine Interface developed to operate the elevator without 
 
 
 
-The Arduino board is connected to 4 LEDS to represent the 4 Floors.
+The Arduino board is connected to 4 LEDS to represent the 4 Floors as shown in the circuit diagram.
 
 
 
-![WhatsApp Image 2022-09-26 at 10 59 43 AM](https://user-images.githubusercontent.com/104884816/201478537-7b72917f-b12d-44cf-97af-d8f7185bd9d1.jpeg)
+![Screenshot (199)](https://user-images.githubusercontent.com/104884816/201485080-01a50f04-ac65-45eb-be31-7cd82e1584f0.png)
+
 
 
 
