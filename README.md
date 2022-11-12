@@ -15,4 +15,4 @@ The Arduino board is connected to 4 LEDS to represent the 4 Floors.
 
 
 
-Maincode is connecting to Arduino using pyfirmata library.The code facilitates to blink the LEDS as the user selects a button as displayed above in the inaerface.The LEDS blink from the First Floor to the selected Floor to show the movement of elevator.One can make changes to operate the eleavtor as they desire.
+Maincode is connecting to Arduino using pyfirmata library. The code facilitates to blink the LEDS as the user selects a button as displayed above using the interface. The LEDS blink from the First Floor to the selected Floor to show the movement of elevator. One can make changes to operate the elevator as they desire.
